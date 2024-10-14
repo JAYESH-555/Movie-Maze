@@ -2,6 +2,14 @@
 
 Welcome to MovieMaze! This app allows you to easily search for your favorite movies and TV shows, view detailed information about them, and enjoy a sleek, responsive interface with both light and dark modes. 🌗✨
 
+# 🌐 Deployment
+
+This app is deployed on Vercel.
+
+👉 Check out the live version here: [MovieMaze](https://movie-maze-jayesh-555s-projects.vercel.app/)
+
+
+
 # 🚀 Features
 
 - 🔍 Search: Look up your favorite movies and TV shows with an intuitive search bar.
